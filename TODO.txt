@@ -1,0 +1,10 @@
+Figure out how a first person camera in 2D will be calculated
+e.g. if using "ray tracing" or drawing shapes relative to camera
+Got to work out skew of distance and perspective change ect.
+
+Make 2D "game" with simple controles and objects
+
+Make a renderer for different visualisations of distance
+    - darker with range
+    - dottet lines?
+
